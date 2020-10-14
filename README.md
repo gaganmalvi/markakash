@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Gagan Malvi </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=theacanthite&style=flat-square" alt="malviscape" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=malviscape&theme=great-gatsby&show_icons=true" alt="stats"/></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gmlvi&style=flat-square" alt="gmlvi" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gmlvi&theme=great-gatsby&show_icons=true" alt="stats"/></p>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
