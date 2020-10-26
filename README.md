@@ -1,4 +1,10 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Gagan Malvi </h1>
+### Hi there, I'm Gagan Malvi.
+An amateur developer 🖥️ from India.
+- 🌱 I’m currently learning C++, C and Python.
+- 📱 AOSP custom ROM developer and Linux fanboy.
+- 📫 How to reach me: You may follow me on [Instagram](https://instagram.com/gaganmalvi) or [Telegram](https://t.me/dswhj)
+- 😄 Pronouns: he/him/his
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gaganmalvi&style=flat-square" alt="gmlvi" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gaganmalvi&theme=great-gatsby&show_icons=true" alt="stats"/></p>
 <div align="center">
