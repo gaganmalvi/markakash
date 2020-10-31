@@ -7,6 +7,7 @@ An amateur developer 🖥️ from India.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gaganmalvi&style=flat-square" alt="gmlvi" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gaganmalvi&theme=great-gatsby&show_icons=true" alt="stats"/></p>
+[![gaganmalvi Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaganmalvi&layout=compact)](https://github.com/gaganmalvi)
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
