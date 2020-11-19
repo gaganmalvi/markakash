@@ -9,7 +9,7 @@ An amateur developer 🖥️ from India.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gaganmalvi&theme=great-gatsby&show_icons=true" alt="stats"/><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganmalvi&layout=compact" alt="langs"/></p>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
