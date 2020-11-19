@@ -45,5 +45,5 @@ An amateur developer 🖥️ from India.
 <img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/slack/slack-plain.svg" width="25" height="30"/>
+<img src="https://devicon.dev/devicon.git/icons/slack/slack-plain.svg"/>
 </p>
