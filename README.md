@@ -44,5 +44,5 @@ An amateur developer 🖥️ from India.
 <img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="25px" height="25px"/>
-<img src="https://cultofthepartyparrot.com/guests/hd/partygeeko.gif" width="40" height="25"/>
+<img src="https://cultofthepartyparrot.com/guests/hd/partygeeko.gif" width="50" height="25"/>
 </p>
