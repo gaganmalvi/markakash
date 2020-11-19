@@ -32,6 +32,7 @@ An amateur developer 🖥️ from India.
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/quadparrot.gif" width="25" height="25"/>
 </div>
 <p align="center"> 
 <img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
@@ -44,5 +45,5 @@ An amateur developer 🖥️ from India.
 <img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="25px" height="25px"/>
-<img src="https://cultofthepartyparrot.com/guests/hd/partygeeko.gif" width="50" height="25"/>
+<img src="https://devicon.dev/devicon.git/icons/slack/slack-plain.svg" width="25px" height="25px"/>
 </p>
