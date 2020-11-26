@@ -1,7 +1,7 @@
 ### Hi there, I'm Gagan Malvi.
 An amateur developer 🖥️ from India.
 - 🌱 I’m currently learning C++, C and Python.
-- 📱 AOSP custom ROM developer and Linux fanboy.
+- 📱 AOSP/CAF ROM developer and maintainer for Qualcomm devices.
 - 📫 How to reach me: You may follow me on [Instagram](https://instagram.com/gaganmalvi) or [Telegram](https://t.me/dswhj)
 - 😄 Pronouns: he/him/his
 
