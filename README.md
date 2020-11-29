@@ -47,4 +47,4 @@ An amateur developer 🖥️ from India.
 <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/slack/slack-plain.svg" width="25px" height="25px"/>
 </p>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=48y6qvy0xfqibida0x1pwe271&redirect=true"/>
+
