@@ -1,5 +1,6 @@
 ### Hi there, I'm Gagan Malvi.
 An amateur developer 🖥️ from India.
+Student of CSE at VIT, Vellore.
 - 🌱 I’m currently learning C++, C and Python.
 - 📱 AOSP/CAF ROM developer and maintainer for Qualcomm devices.
 - 📫 How to reach me: You may follow me on [Instagram](https://instagram.com/gaganmalvi) or [Telegram](https://t.me/dswhj)
