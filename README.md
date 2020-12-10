@@ -7,7 +7,7 @@ Student of CSE at VIT, Vellore.
 - 😄 Pronouns: he/him/his
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gaganmalvi&style=flat-square" alt="gmlvi" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gaganmalvi&theme=great-gatsby&show_icons=true" alt="stats"/><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganmalvi&theme=highcontrast&layout=compact" alt="langs"/></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gaganmalvi&theme=great-gatsby&show_icons=true" alt="stats"/><br></p>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="25" height="25"/>
