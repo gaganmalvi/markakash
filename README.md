@@ -1,5 +1,5 @@
 <p align="center"> <img src="gaganmalvi.jpg" alt="me!"/></p>
-<h5> Hi there, I'm Gagan Malvi. </h5><br>
+<h3> Hi there, I'm Gagan Malvi. </h3>
 An amateur developer 🖥️ from India.<br>
 Student of CSE at VIT, Vellore.<br>
 - 📱 AOSP/CAF ROM developer and maintainer for Qualcomm devices.<br>
