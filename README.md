@@ -3,6 +3,7 @@ An amateur developer 🖥️ from India.<br>
 Student of CSE at VIT, Vellore.
 - 🌱 I’m currently learning C++, C and Python.
 - 📱 AOSP/CAF ROM developer and maintainer for Qualcomm devices.
+- 📲 Paranoid Android maintainer for the Xiaomi Redmi Note 4X.
 - 📫 How to reach me: You may follow me on [Instagram](https://instagram.com/gaganmalvi) or [Telegram](https://t.me/dswhj)
 - 😄 Pronouns: he/him/his
 
