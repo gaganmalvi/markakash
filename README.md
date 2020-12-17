@@ -4,7 +4,7 @@ An amateur developer 🖥️ from India.<br>
 Student of CSE at VIT, Vellore.<br>
 - 📱 AOSP/CAF ROM developer and maintainer for Qualcomm devices.<br>
 - 📦 Love to play around with kernels and distros.<br>
-- 📫 How to reach me: You may follow me on [Instagram](https://instagram.com/gaganmalvi) or [Telegram](https://t.me/dswhj)<br>
+- 📫 How to reach me: You may follow me on <a href="https://instagram.com/gaganmalvi">Instagram</a> or <a href="https://t.me/dswhj">Telegram</a><br>
 - 😄 Pronouns: he/him/his<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gaganmalvi&style=flat-square" alt="gmlvi" /> </p>
