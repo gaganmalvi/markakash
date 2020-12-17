@@ -1,11 +1,11 @@
 <p align="center"> <img src="gaganmalvi.jpg" alt="me!"/></p>
-### Hi there, I'm Gagan Malvi.
+<h5> Hi there, I'm Gagan Malvi. </h5><br>
 An amateur developer 🖥️ from India.<br>
-Student of CSE at VIT, Vellore.
-- 📱 AOSP/CAF ROM developer and maintainer for Qualcomm devices.
-- 📦 Love to play around with kernels and distros.
-- 📫 How to reach me: You may follow me on [Instagram](https://instagram.com/gaganmalvi) or [Telegram](https://t.me/dswhj)
-- 😄 Pronouns: he/him/his
+Student of CSE at VIT, Vellore.<br>
+- 📱 AOSP/CAF ROM developer and maintainer for Qualcomm devices.<br>
+- 📦 Love to play around with kernels and distros.<br>
+- 📫 How to reach me: You may follow me on [Instagram](https://instagram.com/gaganmalvi) or [Telegram](https://t.me/dswhj)<br>
+- 😄 Pronouns: he/him/his<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gaganmalvi&style=flat-square" alt="gmlvi" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gaganmalvi&theme=great-gatsby&show_icons=true" alt="stats"/><br></p>
