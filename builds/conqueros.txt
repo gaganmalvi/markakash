@@ -1,7 +1,0 @@
-11-July-2020
-============
-* Fix Night Light (basically updating graphics stack from old tag to a newer tag)
-* Enable Frameworks Boost
-* Fix BT connections
-* Go IOP
-============
