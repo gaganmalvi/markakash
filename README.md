@@ -3,6 +3,7 @@
 An amateur developer 🖥️ from India.<br>
 Student of CSE at VIT, Vellore.<br>
 - 📱 AOSP/CAF ROM developer and maintainer for Qualcomm devices.<br>
+- 🐍 Learning Python3.
 - 📦 Love to play around with kernels and distros.<br>
 - 📫 How to reach me: You may follow me on <a href="https://instagram.com/gaganmalvi">Instagram</a> or <a href="https://t.me/dswhj">Telegram</a><br>
 - 😄 Pronouns: he/him/his<br>
