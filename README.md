@@ -5,7 +5,7 @@ Student of CSE at VIT, Vellore.<br>
 - 📱 AOSP/CAF ROM developer and maintainer for Qualcomm devices.<br>
 - 🐍 Learning Python3. <br>
 - 📦 Love to play around with kernels and distros.<br>
-- 📫 How to reach me: You may follow me on <a href="https://instagram.com/gaganmalvi">Instagram</a> or <a href="https://t.me/dswhj">Telegram</a> or via email at <a href="mailto:malvi@aospa.co">malvi@aospa.co</a><br>
+- 📫 How to reach me: You may follow me on <a href="https://linkedin.com/in/gaganmalvi">LinkedIn</a> or <a href="https://t.me/dswhj">Telegram</a> or via email at <a href="mailto:malvi@aospa.co">malvi@aospa.co</a><br>
 - 😄 Pronouns: he/him/his<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gaganmalvi&style=flat-square" alt="gmlvi" /> </p>
