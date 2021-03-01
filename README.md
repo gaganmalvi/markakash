@@ -2,7 +2,7 @@
 <h3> Hi there, I'm Gagan Malvi. </h3>
 An amateur developer 🖥️ from India.<br>
 Student of CSE at VIT, Vellore.<br>
-- 📱 AOSP/CAF ROM developer and maintainer for Qualcomm devices.<br>
+- 📱 AOSP/CAF ROM developer and maintainer for Qualcomm and MediaTek devices.<br>
 - 🐍 Learning Python3. <br>
 - 📦 Love to play around with kernels and distros.<br>
 - 📫 How to reach me: You may follow me on <a href="https://linkedin.com/in/gaganmalvi">LinkedIn</a> or <a href="https://t.me/dswhj">Telegram</a> or via email at <a href="mailto:malvi@aospa.co">malvi@aospa.co</a><br>
@@ -10,6 +10,7 @@ Student of CSE at VIT, Vellore.<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gaganmalvi&style=flat-square" alt="gmlvi" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gaganmalvi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats"/><br></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaganmalvi&theme=dark"/></p>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="25" height="25"/>
