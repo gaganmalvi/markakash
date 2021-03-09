@@ -1,4 +1,4 @@
-<p align="center"> <img src="gaganmalvi.jpg" alt="me!"/></p>
+<p align="center"> <img src="nyan.gif" alt="me!"/></p>
 <h3> Hi there, I'm Gagan Malvi. </h3>
 An amateur developer 🖥️ from India.<br>
 Student of CSE at VIT, Vellore.<br>
